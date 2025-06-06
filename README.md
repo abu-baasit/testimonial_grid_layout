@@ -1,1 +1,1 @@
-A code challenge on grid layout by frontend mentor 
+code challenge on using grid as tools to achieve styling

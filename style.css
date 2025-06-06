@@ -127,8 +127,8 @@ h6 {
         .testimonial-3,
         .testimonial-4,
         .testimonial-5 {
-          grid-column: auto !important;
-          grid-row: auto !important;
+          grid-column: auto /*!important*/;
+          grid-row: auto /*!important*/;
           border-radius: 10px;
         }
       
